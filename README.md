@@ -1,3 +1,3 @@
 # Monografia
-Monograph document
 
+Repositório referente à documentação da monografia.
